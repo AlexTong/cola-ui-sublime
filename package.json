@@ -1,0 +1,12 @@
+{
+  "name": "cola-ui-sublime",
+  "version": "2.0.0",
+  "description": "Sublime plugin with autocompletions for the Cola-UI framework",
+  "keywords": [
+    "sublime",
+    "cola-ui",
+    "autocompletion"
+  ],
+  "author": "Alex Tong",
+  "license": "MIT"
+}
