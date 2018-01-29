@@ -1,3 +1,1 @@
-normal_tags = ([
-    'c-dropdown', "c-label"
-])
+normal_tags = (["c-button","c-buttonGroup","c-calendar","c-divider","c-iframe","c-label","c-reveal","c-subView","c-breadcrumb","c-cardBook","c-carousel","c-menu","c-titlebar","c-stack","c-steps","c-checkbox","c-toggle","c-datepicker","c-dropdown","c-customDropdown","c-form","c-input","c-progress","c-radio-group","c-rating","c-select-button","c-select","c-tag-editor","c-textarea","c-dialog","c-layer","c-panel","c-segment","c-sidebar","c-split-pane","c-tab","c-listView","c-nestedList","c-pager","c-table","c-timeLine","c-tree"])
